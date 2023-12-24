@@ -13,7 +13,7 @@ const About = () => {
       <div className="container mx-auto text-center">
         <h2 className="text-3xl font-extrabold mb-6">About Me</h2>
         <p className="text-lg mb-8">
-          Hi, I'm Khalid Nawaz, a passionate Software Engineer and Data Science enthusiast. I specialize in building elegant and performant applications using a variety of technologies.
+          Hi, Im Khalid Nawaz, a passionate Software Engineer and Data Science enthusiast. I specialize in building elegant and performant applications using a variety of technologies.
         </p>
         <p className="text-lg mb-8">
           My expertise lies in Frontend development with technologies like TypeScript, React.js, HTML, CSS, and Tailwind CSS. On the Backend, I'm proficient in Node.js. I also have experience in Python, Pandas, NumPy, and utilizing AI for backend and data science.
